@@ -427,10 +427,6 @@ footer{
 
 /* Responsive */
 @media (max-width: 1200px) {
-
-    header {
-        display: none;
-    }
     .home .max-width{
         margin-left: 0px;
     }
